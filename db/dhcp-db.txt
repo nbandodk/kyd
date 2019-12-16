@@ -582,3 +582,35 @@ d304ec3f1ca1483e715d0ee41800bfa1	1,121,249,3,6,12,15,28,212,33	Router, Access Po
 86eed4bae372606b6c52393465543d87	1,3,6,15,31,33,43,44,46,47,119,121,249,252	Operating System/Windows OS/Microsoft Windows Kernel 10.0	87
 9f6663cc09fd67f78f36bd80bac11ae2	1,3,42,4,6,12,15,26,44,51,54,58,59,190	Printer or Scanner/Lexmark Printer	87
 388986ec86c33bec049ed0b01790aa92	6,3,1,15,12,44,81,69,42,43,18,66,67,150,7	Printer or Scanner/HP Printer	87
+4e77d914247ddc39bf4e126eb5b488d1  1,28,3,15,6,12,42,119,242,120,66,150,43 VoIP Device 29
+bac194384781fcc5e235d437bcbf2220  1,28,2,3,15,6,12,66,67,42,224,225,161,162,184,185,226,121,249,33,252,42 Operating System/Linux OS 87
+095258233c27c03e97c470631bbb0029  1,121,33,3,6,12,15,26,28,42,51,54,58,59,119,157 Video Conferencing/LifeSize Video Conferencing 87
+017c2f3e8c1ece01b492817ee5ce0051  1,3,6,12,15,28,42,224 Audio, Imaging or Video Equipment/IP Camera/Vaddio IP Camera 87
+036c4d845f6090488340afcd7618dda1  66,160,43,51,7,54,42,15,6,4,3,2,1 VoIP Device/Polycom VoIP 87
+b4c3b0995dab4fcce010b25f5a7cafc0  1,28,156,4,3,6,66,42 VoIP Device/ShoreTel IP Phone 87
+a73d4e4b095e3c29016b6439ab83c0a0  1,3,6,12 Internet of Things (IoT)/Chamberlain MyQ Smart Home 87
+280637ee261da85f922eeb243b83f0da  1,3,12,15,6,42,33,121 Operating System/Linux OS 87
+d3f9207f30d2c10b64ed2f088f0ed016  1,3,26,252,42,15,6,12 Operating System/Sailfish OS 87
+94d9c5d1a2f1def74cfdc7e44f94c530  1,3,6,12,15,28,33,40,41,42,44,249,121 Router, Access Point or Femtocell 87
+7cb5f78e73a260098a01a93a151d0ec0  43,120 VoIP Device 29
+9ed6f0c8272555aa006b3e31de6d02a0  1,3,6,54 Operating System/Apple OS/iOS 87
+5e2da3332661c27201dba8fc5ff61194  1,3,6,12,15,28,42,43 Router, Access Point or Femtocell/Wireless Access Point/Adtran WAP      87
+423f4d0ddc79ac522bb1a840121f34a6  1,15,3,28,12,6,7,26,43 Router, Access Point or Femtocell/Wireless Access Point/Cisco WAP 87
+6b713df0e9925a009bf862e30c8fa915  1,3,4,23,67,66,43,6,15,119,42,2,60 Switch and Wireless Controller/HP ProCurve Switches 87
+476785d0998517c726414789f7c33484  252,3,42,6,1,12 Router, Access Point or Femtocell 87
+d4a9ebcd2f370afc2657f23fe760d5c3  3,6,15,43 Router, Access Point or Femtocell/Wireless Access Point/Extreme Networks WAP 88
+457aa5cc281f277e93e71f54448edc06  1,3,4,43,6,15,119 Switch and Wireless Controller/HP ProCurve Switches 87
+57b344d013b5530acc061d3928875e07  1,3,6,12,15,17,23,28,29,31,33,40,41,42,66,67,150 Switch and Wireless Controller/ZyXEL Switches 87
+b97845c71581b46cedf3474de29238f4  1,3,4,43,6,15 Switch and Wireless Controller/HP ProCurve Switches 87
+cf856d36c1c255aec0eb98373856ee7b  1,3,28,6,15,44,46,47,31,33,121,43 Internet of Things (IoT)/Generic IoT/Espressif 87
+d42dff3a5b524eba5653c8aa8d503d95  1,28,2,3,15,6,12,44,47,121,249,33,252,42 Audio, Imaging or Video Equipment/IP Camera/WiLife IP Camera 87
+05fa6080c253eb4afae27e4dc7474db6  1,3,6,12,15,28,42,119 Audio, Imaging or Video Equipment/IP Camera 87
+0a9f3bdf6b25af9eaeb9bb93f2bbee02  1,3,6,15,212 Router, Access Point or Femtocell/Router/DrayTek Router/DrayTek Vigor2925ac 87
+4e45fc3b281c2b08a40cf161ac6e1c82  54,44,6,7,12,15,22,69,18,119 Printer or Scanner/HP Printer 87
+6539c834fa46d2f9104f0605cb0cb182  1,3,4,23,67,66,43,6,15,119,42,2,60,138 Switch and Wireless Controller/HP ProCurve Switches 87
+054bc266ceda09da7c65f14c68799342  1,28,2,3,15,6,12,119 Phone, Tablet or Wearable/RIM BlackBerry 87
+ec1b5da6b1ff8de45b8588d9c6042449  1,3,4,43,6,15,119,42,2,60,138 Switch and Wireless Controller/HP ProCurve Switches 87
+a340f48f4196490e7d6419765784da99  1,3,4,43,6,15,119,42,2 Switch and Wireless Controller/HP ProCurve Switches 87
+e9765b2b3922c5094ca387db2d718e3c  1,28,3,15,6,12,42,119,242,120,66,43 Video Conferencing/Tandberg 73
+92055e153b8c9825fd2a37edfa3736de  1,3,4,6,12,15,28,42,43,60,66,67 Router, Access Point or Femtocell/Wireless Access Point/Aruba WAP/Aruba Instant AP 87
+a70a0115cdccf9466809cf7779e2a62e  1,28,160,66,43,3,4,42,2,6,15,7,128,144,157,191 VoIP Device/Polycom VoIP/Polycom SoundStation IP/Polycom SoundStation IP 5000 87

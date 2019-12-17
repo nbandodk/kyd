@@ -20,7 +20,7 @@ def queryFingerbank(file_dic,key,proxy):
     else:
         proxies={"http" : proxy}
 
-    for hash, fp in file_dic.items():
+    for hash, fp in list(file_dic.items()):
         data = '{"dhcp_fingerprint":"' + fp +'"}'
         resp_dic[hash].append(fp)
         try:
@@ -43,21 +43,21 @@ def queryFingerbank(file_dic,key,proxy):
                         resp_dic[hash].append(json_response["device_name"])
                         resp_dic[hash].append(json_response["score"])
 
-                    print '\n'+hash,
+                    print('\n'+hash , end = ' ')
                     f.write(hash +'\t')
 
                     for x in [0,1,2]:
                         s = str(resp_dic[hash][x]).strip('[]')
-                        print '\t'+ s,
-                        if isinstance(s, unicode):
-                            f.write(s.encode("utf-8") + '\t')
+                        print('\t'+ s, end=' ')
+                        if isinstance(s, str):
+                            f.write(s + '\t')
                         else:
                             f.write(s + '\t')
                     f.write('\n')
                     break
 
                 except:
-                    print "Exception occured retrying"
+                    print("Exception occured retrying")
                     if tries == 0:
                         # If we keep failing, raise the exception for the outer exception
                         # handling to deal with
@@ -69,7 +69,7 @@ def queryFingerbank(file_dic,key,proxy):
                         continue
 
         except:
-            print ("Oops! an exception have occured", sys.exc_info()[0])
+            print(("Oops! an exception have occured", sys.exc_info()[0]))
             raise
         #finally:
     f.close()

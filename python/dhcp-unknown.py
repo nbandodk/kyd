@@ -13,7 +13,7 @@ def queryFingerbank(file_dic,key,proxy):
 
 
     resp_dic = defaultdict(list)
-    f = open("dhcp-db-FBQ", "w")
+    f = open("dhcp-db-FBQ", "w", encoding="utf-8")
 
     if "https" in proxy:
         proxies={"https" : proxy}
